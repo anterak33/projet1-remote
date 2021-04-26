@@ -2,6 +2,8 @@
 int main() {
 	printf("Salut ! \n");
         printf("Bonjour");
+        printf("Bonjour2");
+
 	return ;
 }
 
